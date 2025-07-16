@@ -1,11 +1,5 @@
 /**
  * Professional Portfolio Website - JavaScript Functionality
- * 
- * This script handles:
- * - Smooth scrolling for navigation
- * - Typing animation in hero section
- * - Navbar active link indicator
- * - Mobile hamburger menu toggle
  */
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -227,15 +221,6 @@ if (hamburger && navMenu) {
         });
     }
 });
-/**
- * Professional Portfolio Website - JavaScript Functionality (Part 2)
- * 
- * This script handles:
- * - Form validation for contact form
- * - Scroll-based reveal animations
- * - Back-to-top button functionality
- * - Performance optimizations
- */
 
 document.addEventListener('DOMContentLoaded', function() {
     // ===== FORM VALIDATION =====
